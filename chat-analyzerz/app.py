@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from wordcloud import WordCloud
 import nltk
-from textblob import TextBlob
+from textblob import textblob
 import pandas as pd
 from datetime import datetime
 import calmap
