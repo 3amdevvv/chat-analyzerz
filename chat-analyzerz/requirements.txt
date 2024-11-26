@@ -13,3 +13,5 @@ datetime
 calmap
 Counter
 emoji
+textblob 
+re
